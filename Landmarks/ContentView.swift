@@ -9,11 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("なんか刺激欲しいなあ\nアプリ開発とか語学とか")
+        Text("なんか刺激欲しいなあ\nあああ")
             .padding()
-            .font(.title)
-            .foregroundColor(.green)
-            .border(Color.black)
+            .font(.title2)
     }
 }
 
